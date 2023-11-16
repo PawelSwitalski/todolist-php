@@ -15,8 +15,8 @@
     </head>
     <body>
         <div id="app">
-	   <example></example>
-           <!--  <app></app> -->
+	   <!-- <example></example> -->
+            <app></app>
         </div>
     </body>
 
